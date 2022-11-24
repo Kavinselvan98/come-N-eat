@@ -1,0 +1,17 @@
+.content
+{
+    background-color: rgb(243, 183, 238);
+    color:rgb(224, 66, 66);
+    padding: 10px 10px;
+}
+.content h3
+{
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+.content p
+{
+    font-style: italic;
+    text-align: center;
+}
